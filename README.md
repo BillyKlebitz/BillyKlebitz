@@ -1,6 +1,6 @@
 ### Learning CPP 😎
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/suzumaki?privacyName=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/suzumaki?privacyName=true&)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **BillyKlebitz/BillyKlebitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
